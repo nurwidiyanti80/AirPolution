@@ -92,7 +92,7 @@ import pandas as pd
 from datetime import datetime
 
 # API Key OpenWeather
-API_KEY = "ece073c36dba0ac81994eb199af29ff1"
+API_KEY = "CreateYourAPIKey"
 
 # Konversi ke UNIX timestamp
 def to_unix(date_str):
