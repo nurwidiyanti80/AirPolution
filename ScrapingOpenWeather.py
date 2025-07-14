@@ -50,7 +50,7 @@ import time
 from datetime import datetime
 import pandas as pd
 
-API_KEY = "ece073c36dba0ac81994eb199af29ff1"
+API_KEY = "CreateYourAPIKey"
 lat, lon = -6.2146, 106.8451
 start_date = "2025-01-01"
 end_date = "2025-06-25"
